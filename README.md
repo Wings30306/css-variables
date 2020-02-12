@@ -1,4 +1,4 @@
-# css-variables
+# CSS Variables and JS
 Javascript30 - Day Three - Update CSS variables with JS
 
 ## Lessons learned 
